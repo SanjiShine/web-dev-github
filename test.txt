@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Main!
+=======
+Feature!
+>>>>>>> feature
 
 And here we go with commit #2!
 
